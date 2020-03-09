@@ -3,7 +3,7 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 
 Pneumonia is usually caused by infection with viruses or bacteria and less commonly by other microorganisms, certain medications and conditions such as autoimmune diseases. Risk factors include other lung diseases such as cystic fibrosis, COPD, and asthma, diabetes, heart failure, a history of smoking, a poor ability to cough such as following a stroke, or a weak immune system. Diagnosis is often based on the symptoms and physical examination. Chest X-ray, blood tests, and culture of the sputum may help confirm the diagnosis.
 
-In this project we aim to leverage the ability of Machine learning methods to diagnose pneumonia, based on Chest X-Ray images.
+In this project we aim to leverage the ability of deep learning methods to diagnose pneumonia, based on Chest X-Ray images and deployment using OpenVino
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
